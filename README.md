@@ -4,7 +4,7 @@ My submission for springbig take-home assignment
 **To start API:**
 1. npm install
 2. npm run start
-3. API will run on port 3000 or you can specify the environment variable API_PORT in an .env file in the root of this project or in your terminal before launching the node app
+3. API will run on port 3000 or you can specify the environment variable API_PORT in an .env file in the root of this project or in your terminal before launching the node app like so, ```API_PORT=5000; npm run start;```
 
 -------------------------------------------------------
 
