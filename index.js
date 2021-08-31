@@ -1,5 +1,4 @@
 const http = require('http');
-const { checkServerIdentity } = require('tls');
 const app = require('./app');
 
 const server = http.createServer(app);
